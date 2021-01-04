@@ -4,22 +4,23 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
-title:            台文通訊
-tagline:          'Tâi-bûn Thong-sìn'
-description:      '美國《台文通訊》（Tâi-bûn Thong-sìn；共同贊助人：Taiwanese Writing Forum、Hawaii大學東亞語文系台語研究計畫；1991-，月刊）創刊，發行人兼總編輯鄭良光（Los.Angeles）；台文習作會改作Los.Angeles台文通訊讀者聯誼會；第25期發行機關改：Chhong-Bi Memorial Fund, USA；在台聯絡處前後有：台語傳播公司、李江却台語文教基金會（LKKh）；2006.02 no.143 換LKKh發行；歷任總編輯：鄭良光（’91.07-’97.07）、李勤岸（’98.02-’99.09）、蘇正玄（’99.10-2002.01）、張秀滿（2002.02-’03.12）、葉國基（2004.01-）。←李豐明1991：「海外ê語文工作若kap島內ê脫節，就親像欠1 lián ê腳踏車。」「（1990林來福銃案hō͘作者ê啟示）今仔日你、我雖然無開槍挑戰社會，咱用筆向海外ê同鄉kap島內ê社會挑戰！咱beh叫醒輕視母語ê人。」（來源：<a href="http://tgbhsuliau.nmtl.gov.tw/opencms/library/timeline/?sort=asc&sy=1991&ey=1991&keyword=%E5%8F%B0%E6%96%87%E9%80%9A%E8%A8%8A" target="_blank">台語文學發展年表</a>）'
-url:              https://taibunthongsin.github.io/TaibunThongsin/
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
 baseurl:          /
 
-# author:
-#   name:           'Mark Otto'
-#   url:            https://twitter.com/mdo
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-paginate:         1
+paginate:         5
 
 # Custom vars
-# version:          2.1.0
+version:          2.1.0
 
-# github:
-#   repo:           https://github.com/poole/hyde
+github:
+  repo:           https://github.com/poole/hyde
