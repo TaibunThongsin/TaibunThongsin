@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 紹介
+title: About
 sidebar_link: true
 ---
 
