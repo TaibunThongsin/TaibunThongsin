@@ -1,5 +1,6 @@
 <nav id="sidebar-icon-links">
-  {% if site.hydeout.repo %}
+
+  {% comment %} {% if site.hydeout.repo %}
     <a id="github-link"
        class="icon" title="Github Project" aria-label="Github Project"
        href="{{ site.hydeout.repo }}">
@@ -16,12 +17,12 @@
      class="icon" title="Subscribe" aria-label="Subscribe"
      href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
     {% include svg/feed.svg %}
-  </a>
+  </a> {% endcomment %}
 
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
   {% endcomment %}
-  {% assign tags_page = false %}
+  {% comment %} {% assign tags_page = false %}
   {% assign search_page = false %}
   {% for node in site.pages %}
     {% if node.layout == "tags" %}
@@ -38,7 +39,7 @@
        href="{{ tags_page.url | relative_url }}">
       {% include svg/tags.svg %}
     </a>
-  {% endif %}
+  {% endif %} {% endcomment %}
 
   {% if search_page %}
     <a id="search-link"
