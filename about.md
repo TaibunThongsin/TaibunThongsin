@@ -6,7 +6,7 @@ sidebar_link: true
 
 ## 《台文通訊》是近代台文運動siōng重要ê 1份台文刊物
 
-* 《台文通訊》是1991年7--月鄭良光先生tī美國Los Angeles創辦ê全台文刊物。
+* 《台文通訊》是1991年7--月Tēⁿ Liông-kng（鄭良光）先生tī美國Los Angeles創辦ê全台文刊物。
 * 是Taiwanese Writing Forum（台文習作會）、Hawaii大學東亞語文系台語研究計畫（鄭良偉教授）共同來贊助發行。
 * 創辦ê宗旨是beh推sak台語白話字、台語書寫、kap台灣語言ê民族主體意識。
 * 台文是用羅漢合用為主，是鄭良偉教授開始實踐ê書寫方式，延續1975年李豐明所創辦ê《台語通訊》，mā起造近代羅漢台文書寫ê主流書寫風格。
@@ -21,6 +21,6 @@ sidebar_link: true
 
 ### 網站
 
-* 網站負責人：Hê-bí
+* 網站負責人：Ngô͘ Hê-bí
 * 因為「台文通訊30冬」ê相關計畫，整理chia ê資料hō͘ ta̍k-ke使用。
 * Nā對網站有任何問題kap建議，歡迎寫phoe來指教：ngoohebi+taibunthongsinbangcham@gmail.com
