@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-![年表](/_screenshots/nipio.png?raw=true)
+![年表](./_screenshots/nipio.png?raw=true)
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it
