@@ -37,4 +37,4 @@ sidebar_home_link:  true
 # kramdown settings
 kramdown:
   typographic_symbols:
-      ndash: —
+      ndash: --
