@@ -4,7 +4,7 @@ title: Siāu-kài 紹介
 sidebar_link: true
 ---
 
-## 《台文通訊》是近代台文運動siōng重要ê 1份台文刊物。
+## 《台文通訊》是近代台文運動siōng重要ê 1份台文刊物
 
 * 《台文通訊》是1991年7--月鄭良光先生tī美國Los Angeles創辦ê全台文刊物。
 * 是Taiwanese Writing Forum（台文習作會）、Hawaii大學東亞語文系台語研究計畫（鄭良偉教授）共同來贊助發行。
