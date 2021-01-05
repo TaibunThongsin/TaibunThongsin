@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io
+title:            台文通訊
+tagline:          'Tâi-bûn Thong-sìn'
+description:      '美國《台文通訊》（Tâi-bûn Thong-sìn；共同贊助人：Taiwanese Writing Forum、Hawaii大學東亞語文系台語研究計畫；1991-，月刊）創刊，發行人兼總編輯鄭良光（Los.Angeles）；李豐明1991：「（1990林來福銃案hō͘作者ê啟示）今仔日你、我雖然無開槍挑戰社會，咱用筆向海外ê同鄉kap島內ê社會挑戰！咱beh叫醒輕視母語ê人。」（來源：<a href="http://tgbhsuliau.nmtl.gov.tw/opencms/library/timeline/?sort=asc&sy=1991&ey=1991&keyword=%E5%8F%B0%E6%96%87%E9%80%9A%E8%A8%8A" target="_blank">台語文學發展年表</a>）'
+url:              https://taibunthongsin.github.io/TaibunThongsin/
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -14,9 +14,9 @@ baseurl:          '/'
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+# author:
+#   name:           'Andrew Fong'
+#   url:            https://twitter.com/fongandrewc
 
 paginate:         5
 # paginate_path:    '/page:num'
