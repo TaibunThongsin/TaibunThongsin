@@ -4,7 +4,7 @@ title: 紹介
 sidebar_link: true
 ---
 
-![image](https://github.com/TaibunThongsin/TaibunThongsin/blob/main/docs/_screenshots/nipio.png)
+![年表](/_screenshots/nipio.png?raw=true)
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it
