@@ -4,7 +4,7 @@ title: Hello Hydeout
 excerpt_separator:  <!--more-->
 ---
 
-[No.1](https://taibunthongsin.github.io/TaibunThongsin/pdf/%E5%8F%B0%E6%96%87%E9%80%9A%E8%A8%8A_1991-07-01_No1.pdf)
+[No.1](https://taibunthongsin.taigi.info/pdf/%E5%8F%B0%E6%96%87%E9%80%9A%E8%A8%8A_1991-07-01_No1.pdf)
 
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
 theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.
