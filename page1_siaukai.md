@@ -2,6 +2,7 @@
 layout: page
 title: Siāu-kài 紹介
 sidebar_link: true
+permalink: /siaukai/
 ---
 
 ## 《台文通訊》是近代台文運動siōng重要ê 1份台文刊物
@@ -15,12 +16,6 @@ sidebar_link: true
 * 尾手ùi 2012年2--月開始，kap《台文BONG報》合刊，號做《台文通訊BONG報》，是現此時全世界iáu有teh發行ê台文刊物siōng久長--ê。
 * 這ê網站kan-na收錄早期tī海外ê《台文通訊》，ùi 1991年ê第1期，到2006年ê第142期。
 
-![年表](/image/nipio.png?raw=true)
+![年表](/assets/image/nipio.png?raw=true)
 
-圖片來源：[台語文學發展年表](http://tgbhsuliau.nmtl.gov.tw/opencms/library/timeline/?sort=asc&sy=1990&ey=1991&keyword=%E5%8F%B0%E6%96%87%E9%80%9A%E8%A8%8A)
-
-### 網站
-
-* 網站負責人：Ngô͘ Hê-bí
-* 因為「台文通訊30冬」ê相關計畫，整理chia ê資料hō͘ ta̍k-ke使用。
-* Nā對網站有任何問題kap建議，歡迎寫phoe來指教：ngoohebi+taibunthongsinbangcham@gmail.com
+圖片來源：[台語文學發展年表](https://db.nmtl.gov.tw/site3/index)

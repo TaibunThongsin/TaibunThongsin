@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            台文通訊
 tagline:          'Tâi-bûn Thong-sìn'
-description:      '《台文通訊》月刊（1991-），請參考<a href="http://tgbhsuliau.nmtl.gov.tw/opencms/library/timeline/?sort=asc&sy=1&ey=3000&keyword=%E5%8F%B0%E6%96%87%E9%80%9A%E8%A8%8A" target="_blank">台語文學發展年表</a>。'
+description:      '《台文通訊》月刊（1991-）'
 url:              https://taibunthongsin.taigi.info
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
@@ -23,9 +23,9 @@ paginate:         5
                     # Or '/blog/page:num' if you want to move your index pages
 
 plugins:
-  - jekyll-feed
-  - jekyll-gist
   - jekyll-paginate
+  - jekyll-gist
+  - jekyll-include-cache
 
 # Sidebar link settings
 sidebar_home_link:  true
@@ -38,3 +38,9 @@ sidebar_home_link:  true
 kramdown:
   typographic_symbols:
       ndash: --
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      toc: true

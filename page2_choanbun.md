@@ -1,10 +1,13 @@
 ---
-layout: post
-title: 台文通訊 全文PDF
-excerpt_separator:  <!--more-->
+layout: page
+title: Choân-bûn 全文
+sidebar_link: true
+permalink: /choanbun/
 ---
 
-## Tâi-bûn Thong-sìn Choân-bûn PDF
+## 《台文通訊》 全文PDF（No.1~142）
+
+Tâi-bûn Thong-sìn Choân-bûn PDF
 
 ### No.1 ~ No.50（總編輯：Tēⁿ Liông-kng 鄭良光）
 
