@@ -5,6 +5,8 @@ sidebar_link: true
 permalink: /2026HamTanluiKhaikang/
 ---
 
+![2026【和作家陳雷ê作品開講】](/assets/image/2026HamTanluiKhaikang.png)
+
 今年《台文通訊》創刊滿35冬，咱特別摘內底陳雷先ê作品做伙來讀、來開講！歡迎大家食暗飽，來「等閑書房」輕鬆讀台文，做陣來開講！
 
 ## 活動方式
