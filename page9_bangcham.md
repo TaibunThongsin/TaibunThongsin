@@ -13,4 +13,4 @@ permalink: /bangcham/
 
 ### 網站 QRCode
 
-![QRCode](/assets/images/bangcham_qrcode.png)
+![QRCode](/assets/image/bangcham_qrcode.png)
